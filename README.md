@@ -66,13 +66,13 @@ Run `Main.java`
 ![Main Menu](screenshots/main-menu.png)
 
 ### Add Product
-![Add Product](screenshots/add-product.png)
+![Add Products](screenshots/add-product.png)
 
 ### View Products
 ![View Products](screenshots/view-products.png)
 
 ### Remove Product
-![Remove Product](screenshots/remove-product.png)
+![Remove Products](screenshots/remove-product.png)
 
 ### CLI Demo
 ![CLI Demo](screenshots/CLI-demo.png)
